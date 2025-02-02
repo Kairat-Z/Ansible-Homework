@@ -1,0 +1,3 @@
+[kaizen]
+kaizen1 ansible_host=ec2-user@3.144.17.230
+kaizen2 ansible_host=ec2-user@3.144.104.8
